@@ -17,7 +17,7 @@
 | Quiz 2 |  | 3 |
 | Quiz 3 |  |  |
 | Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| Organizational Policies |  |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 | First Grading Exam |  |  |
@@ -26,7 +26,7 @@
 | Quiz 1 |  |  |
 | Quiz 2 |  |  |
 | Quiz 3 |  |  |
-| Other Activities |  |  |
+| Other Activities | 08/24/24 | Draft 5/30 |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
@@ -43,13 +43,12 @@
 | Final Exam |  |  |
 | Course Reflection |  |  |
 
-**\<insert your scanned activities here include title\>**
+**\First Grading**
 
-**Quiz 1:**
+**Organizational Policies**
 
-**![][image1]**
+![IMG_20241127_081948_302](https://github.com/user-attachments/assets/b707ec9b-d245-42b7-bda4-619b5148dabd)
 
-**\<delete the sample above and include your own quizzes/activities/exam\>**
 
 **Course Reflection**
 
