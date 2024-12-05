@@ -62,12 +62,12 @@
 
 What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
 
-|  |
+| I expected the System Administration course to focus on basic server management and Linux commands. However, it exceeded my expectations by emphasizing problem-solving, security practices, Organizational policies, and network layout/design, making it more hands-on and practical than I anticipated. |
 | :---- |
 
 What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?
 
-|  |
+| The main topics covered in the System Administration course included server management, Linux and Windows commands, system security. These topics helped build a solid foundation in managing systems efficiently, understanding network architecture, securing servers and making valid policies for real life organizations, which deepened my practical understanding of how to maintain computer systems in real world scenarios. |
 | :---- |
 
 Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course material?
