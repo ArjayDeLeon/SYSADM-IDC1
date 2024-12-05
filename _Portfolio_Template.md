@@ -17,20 +17,20 @@
 | Quiz 2 |  | 3 |
 | Quiz 3 |  |  |
 | Other Activities |  |  |
-| Organizational Policies |  |  |
+| Organizational Policies | 08/24/24  |  |
+| First Grading Exam | september 17 2024 |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| First Grading Exam |  |  |
+|  |  |  |
 | **Midterms** |  |  |
 | Quizzes |  |  |
 | Quiz 1 |  |  |
 | Quiz 2 |  |  |
 | Quiz 3 |  |  |
-| Other Activities | 08/24/24 | Draft 5/30 |
+| Other Activities | |  |
+| Research Ativity (Metrics) | No Date |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| Midterm Exam |  |  |
+| Midterm Exam | No Date |  |
 | **Finals** |  |  |
 | Quizzes |  |  |
 | Quiz 1 |  |  |
@@ -48,6 +48,14 @@
 **Organizational Policies**
 
 ![IMG_20241127_081948_302](https://github.com/user-attachments/assets/b707ec9b-d245-42b7-bda4-619b5148dabd)
+
+![IMG_20241127_082102_686](https://github.com/user-attachments/assets/2e901bbf-4a6f-47e1-a99f-4c87edb6151c)
+
+![IMG_20241127_082004_905](https://github.com/user-attachments/assets/8e84dde0-67b3-4eb8-9415-7e23a1c2fe3b)
+
+![IMG_20241127_082123_631](https://github.com/user-attachments/assets/c04088fb-a978-40f7-bd93-79a159e84412)
+
+
 
 
 **Course Reflection**
