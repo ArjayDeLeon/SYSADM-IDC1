@@ -12,35 +12,25 @@
 | Name of Activities | Date of Activity | Page No. |
 | :---- | :---- | :---- |
 | **First Grading** |  |  |
-| Quizzes |  |  |
-| Quiz 1 |  | 1 |
-| Quiz 2 |  | 3 |
-| Quiz 3 |  |  |
-| Other Activities |  |  |
+| Quizzes | No Copy of papers |  |
+| Other Activities | |  |
+| FGE_LW3 Managing Services in Windows_DeLeon | 08/28/24 |  |
 | Organizational Policies | 08/24/24  |  |
 | First Grading Exam | september 17 2024 |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 |  |  |  |
 | **Midterms** |  |  |
-| Quizzes |  |  |
-| Quiz 1 |  |  |
-| Quiz 2 |  |  |
-| Quiz 3 |  |  |
+| Quizzes | No Copy of Papers |  |
 | Other Activities | |  |
 | Research Ativity (Metrics) | No Date |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| Monitoring Print Services in Windows Server 2019 | 09/25/24 |  |
+| M_LW2%20Web%20Server_DELEON_ARJAY | 10/16/24 |  |
 | Midterm Exam | No Date |  |
 | **Finals** |  |  |
-| Quizzes |  |  |
-| Quiz 1 |  |  |
-| Quiz 2 |  |  |
-| Quiz 3 |  |  |
+| Quizzes | No Copy of Papers |  |
 | Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| Final Exam |  |  |
+| FLW1_Kerberos_De_Leon_Arjay | 11/06/24 |  |
+| Kerberos Lab Activity: A step-by-step Guide | 11/13/24 |  |
+| Final Exam | N/A |  |
 | Course Reflection |  |  |
 
 **\First Grading**
@@ -54,6 +44,9 @@
 ![IMG_20241127_082004_905](https://github.com/user-attachments/assets/8e84dde0-67b3-4eb8-9415-7e23a1c2fe3b)
 
 ![IMG_20241127_082123_631](https://github.com/user-attachments/assets/c04088fb-a978-40f7-bd93-79a159e84412)
+
+
+
 
 
 
